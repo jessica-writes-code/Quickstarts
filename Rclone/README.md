@@ -1,6 +1,6 @@
 # Rclone
 
-This is a "Quickstart" guide for simple RClone usage.
+This is a "Quickstart" guide for simple Rclone usage.
 
 ## What is Rclone?
 
